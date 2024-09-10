@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.73E+12,420,HTTP Request,200,OK,SauceDemo 1-1,text,TRUE,,3953,242,5,5,https://www.saucedemo.com/,87,0,45
+1.73E+12,87,HTTP Request-0,301,Moved Permanently,SauceDemo 1-1,text,TRUE,,658,121,5,5,http://www.saucedemo.com/,87,0,45
+1.73E+12,332,HTTP Request-1,200,OK,SauceDemo 1-1,text,TRUE,,3295,121,5,5,https://www.saucedemo.com/,332,0,82
+1.73E+12,329,HTTP Request,200,OK,SauceDemo 1-2,text,TRUE,,3953,242,4,4,https://www.saucedemo.com/,86,0,43
+1.73E+12,86,HTTP Request-0,301,Moved Permanently,SauceDemo 1-2,text,TRUE,,658,121,4,4,http://www.saucedemo.com/,86,0,43
+1.73E+12,241,HTTP Request-1,200,OK,SauceDemo 1-2,text,TRUE,,3295,121,4,4,https://www.saucedemo.com/,240,0,83
+1.73E+12,229,HTTP Request,200,OK,SauceDemo 1-3,text,TRUE,,3952,242,3,3,https://www.saucedemo.com/,77,0,38
+1.73E+12,77,HTTP Request-0,301,Moved Permanently,SauceDemo 1-3,text,TRUE,,658,121,3,3,http://www.saucedemo.com/,77,0,38
+1.73E+12,151,HTTP Request-1,200,OK,SauceDemo 1-3,text,TRUE,,3294,121,3,3,https://www.saucedemo.com/,150,0,78
+1.73E+12,242,HTTP Request,200,OK,SauceDemo 1-4,text,TRUE,,3951,242,3,3,https://www.saucedemo.com/,97,0,48
+1.73E+12,97,HTTP Request-0,301,Moved Permanently,SauceDemo 1-4,text,TRUE,,658,121,3,3,http://www.saucedemo.com/,97,0,48
+1.73E+12,144,HTTP Request-1,200,OK,SauceDemo 1-4,text,TRUE,,3293,121,3,3,https://www.saucedemo.com/,144,0,98
+1.73E+12,217,HTTP Request,200,OK,SauceDemo 1-5,text,TRUE,,3952,242,3,3,https://www.saucedemo.com/,61,0,32
+1.73E+12,61,HTTP Request-0,301,Moved Permanently,SauceDemo 1-5,text,TRUE,,659,121,3,3,http://www.saucedemo.com/,61,0,32
+1.73E+12,154,HTTP Request-1,200,OK,SauceDemo 1-5,text,TRUE,,3293,121,3,3,https://www.saucedemo.com/,154,0,106
+1.73E+12,271,HTTP Request,200,OK,SauceDemo 1-6,text,TRUE,,3951,242,3,3,https://www.saucedemo.com/,109,0,53
+1.73E+12,109,HTTP Request-0,301,Moved Permanently,SauceDemo 1-6,text,TRUE,,658,121,3,3,http://www.saucedemo.com/,109,0,53
+1.73E+12,159,HTTP Request-1,200,OK,SauceDemo 1-6,text,TRUE,,3293,121,3,3,https://www.saucedemo.com/,159,0,109
+1.73E+12,173,HTTP Request,200,OK,SauceDemo 1-7,text,TRUE,,3951,242,3,3,https://www.saucedemo.com/,57,0,29
+1.73E+12,58,HTTP Request-0,301,Moved Permanently,SauceDemo 1-7,text,TRUE,,658,121,3,3,http://www.saucedemo.com/,57,0,29
+1.73E+12,114,HTTP Request-1,200,OK,SauceDemo 1-7,text,TRUE,,3293,121,3,3,https://www.saucedemo.com/,114,0,79
+1.73E+12,271,HTTP Request,200,OK,SauceDemo 1-8,text,TRUE,,3951,242,3,3,https://www.saucedemo.com/,93,0,48
+1.73E+12,93,HTTP Request-0,301,Moved Permanently,SauceDemo 1-8,text,TRUE,,658,121,3,3,http://www.saucedemo.com/,93,0,48
+1.73E+12,177,HTTP Request-1,200,OK,SauceDemo 1-8,text,TRUE,,3293,121,3,3,https://www.saucedemo.com/,177,0,118
+1.73E+12,224,HTTP Request,200,OK,SauceDemo 1-9,text,TRUE,,3951,242,2,2,https://www.saucedemo.com/,80,0,42
+1.73E+12,80,HTTP Request-0,301,Moved Permanently,SauceDemo 1-9,text,TRUE,,658,121,2,2,http://www.saucedemo.com/,80,0,42
+1.73E+12,143,HTTP Request-1,200,OK,SauceDemo 1-9,text,TRUE,,3293,121,2,2,https://www.saucedemo.com/,142,0,102
+1.73E+12,222,HTTP Request,200,OK,SauceDemo 1-10,text,TRUE,,3951,242,1,1,https://www.saucedemo.com/,77,0,38
+1.73E+12,77,HTTP Request-0,301,Moved Permanently,SauceDemo 1-10,text,TRUE,,658,121,1,1,http://www.saucedemo.com/,77,0,38
+1.73E+12,144,HTTP Request-1,200,OK,SauceDemo 1-10,text,TRUE,,3293,121,1,1,https://www.saucedemo.com/,144,0,100
